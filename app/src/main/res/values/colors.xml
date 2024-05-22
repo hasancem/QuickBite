@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="true_black">#FF000000</color>
+    <color name="true_white">#FFFFFFFF</color>
+
+    <color name="off_white">#FBFCFF</color>
+    <color name="ghost_white">#EEF1F8</color>
+    <color name="lavender">#DDE5FC</color>
+    <color name="davys_gray">#4B4C4E</color>
+    <color name="raisin_black">#2D2929</color>
+
+</resources>

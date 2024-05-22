@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuickBite</string>
+
+    <!-- Buttons -->
+    <string name="button_chats">Chats</string>
+    <string name="button_calls">Calls</string>
+    <string name="button_stories">Stories</string>
+
+</resources>
